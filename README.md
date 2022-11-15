@@ -3,6 +3,7 @@
     <head>
         <title>This is a webpage about the Pokemon anime</title>
         <meta charset="utf-8">
+        <style>
         h1 {
   font-family: monospace;
   color: blue;
@@ -45,6 +46,7 @@ font-size: 30px;
 body {
   background-color: black;
 }
+</style>
  </head>
     <body>
     <img id="pokemon"src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/800px-International_Pok%C3%A9mon_logo.svg.png" alt="This is a Picture of the Pokemon logo" width="300px">
